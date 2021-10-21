@@ -1,4 +1,4 @@
-const print = require('../frame-print/index');
+const print = require('mantoss-frame-print');
 
 print('Hello NPM!');
 
